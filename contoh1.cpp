@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class Mahasiswa{
+class Mahasiswa{}
     public:
         string nama;
         int umur;
@@ -15,4 +15,8 @@ class Mahasiswa{
         }
 
 };
+
+class Matakuliah{
+    
+}
 
