@@ -36,3 +36,7 @@ class Matakuliah{
 
 };
 
+int main(){
+    
+}
+
