@@ -29,7 +29,7 @@ class bangunDatar{
 };
 
 int main() {
-    bangundatar pp;
+    bangunDatar pp;
     pp.input();
     pp.display();
 
